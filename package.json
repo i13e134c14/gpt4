@@ -1,0 +1,25 @@
+{
+  "name": "openai-bot",
+  "version": "0.0.3",
+  "description": "Interact with OpenAI Models using OpenAI API",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "InDiagonal",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "openai": "^4.19.0",
+    "sqlite3": "^5.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/InDiagonal/OpenAI-Discord-Bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/InDiagonal/OpenAI-Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/InDiagonal/OpenAI-Discord-Bot#readme"
+}
